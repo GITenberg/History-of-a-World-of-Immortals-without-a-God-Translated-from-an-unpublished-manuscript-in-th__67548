@@ -5,7 +5,12 @@ contributor:
     agent_name: Skorpios, Antares
     gutenberg_agent_id: '54314'
     url: http://www.gutenberg.org/2009/agents/54314
+covers:
+- cover_type: archival
+  image_path: 67548-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67548#History-of-a-World-of-Immortals-without-a-God-Translated-from-an-unpublished-manuscript-in-th_
 gutenberg_issued: '2022-03-03'
 identifiers:
   gutenberg: '67548'
